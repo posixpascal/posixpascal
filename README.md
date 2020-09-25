@@ -12,5 +12,7 @@
 <hr/>
 
 <p align="center">
-  [![posixpascal's github stats](https://github-readme-stats.vercel.app/api?username=posixpascal&count_private=true)]()
+
+[![posixpascal's github stats](https://github-readme-stats.vercel.app/api?username=posixpascal&count_private=true)]()
+
 </p>
