@@ -1,5 +1,5 @@
 ## 🕹 Play now
-Shameless Plug 😳
+Shameless Plug 😳<br/>
 <a href="https://geofind.io"><img src="https://geofind.io/social.jpg" width='540' /></a>
 
 ------------------------
