@@ -13,7 +13,7 @@ Shameless Plug 😳<br/>
 - 🪄 &nbsp; Postgres | MySQL | MongoDB | EventStore
 - 🚌 &nbsp; Nats Streaming | RabbitMQ
 - 💚 &nbsp; Vue
-- 🔷 &nbsp; React / Redux
+- 🔷 &nbsp; React | React Native
 
 ------------------------
 
