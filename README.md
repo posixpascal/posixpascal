@@ -10,8 +10,7 @@ Shameless Plug 😳<br/>
 - 🐳 &nbsp; Docker
 - 🟠 &nbsp; AWS
 - 🟣 &nbsp; Terraform
-- 🪄 &nbsp; Postgres | MySQL | MongoDB | EventStore
-- 🚌 &nbsp; Nats Streaming | RabbitMQ
+- 🪄 &nbsp; Postgres | MySQL | MongoDB
 - 💚 &nbsp; Vue
 - 🔷 &nbsp; React | React Native
 
